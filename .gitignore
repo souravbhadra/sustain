@@ -1,5 +1,9 @@
 data/ground-truths/*
 data/hyper-images/*
 data/shapes/*
+data/planet/*
 
 docs/images/*
+docs/planet-backend/*
+
+notebooks/*
