@@ -99,13 +99,13 @@ input, select, textarea {
 	}
 
 	body {
-		background-color: #935d8c;
-		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
-		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
-		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
-		background-image: url("images/overlay.png"), linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
+		background-color: #218f00;
+		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #ff914d 15%, #007616 85%);
+		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #ff914d 15%, #007616 85%);
+		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #ff914d 15%, #007616 85%);
+		background-image: url("images/overlay.png"), linear-gradient(45deg, #ff914d 15%, #007616 85%);
 	}
-
+	/* #e37682 15%, #5f4d93 */
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
 			-moz-animation: none !important;
 			-webkit-animation: none !important;
@@ -120,7 +120,7 @@ input, select, textarea {
 /* Type */
 
 	body {
-		background-color: #935d8c;
+		background-color: #218f00;
 		color: rgb(255, 255, 255);
 	}
 
